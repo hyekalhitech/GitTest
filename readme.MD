@@ -10,7 +10,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/hyekalhitech"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=hPGvUbs2CNutBA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fhacker-gif-animation-9.gif&ehk=lO0f%2feQ4xGDBna2JO8ClhqsQI2zg4XMmDxoBRu0o%2f4M%3d&risl=&pid=ImgRaw&r=0">
 <br><br>
 
 - 🔭 I’m currently working on **How To Master Your Mindset**
