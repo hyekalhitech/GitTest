@@ -2,30 +2,30 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Assalamualaikum 👋, HyekalHiTech here,</h1>
-<h3 align="center">A normal person from Malaysia</h3>
+<h3 align="center">A normal person and a servant of Allah S.W.T</h3>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=hyekalhitech97&label=Profile%20views&color=0e75b6&style=flat" alt="hyekalhitech" /> 
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/hyekalhitech"> -->
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **How To Master Your Mindset**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **A Lot Of Things**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 Believe and keep learning. InsyaAllah you will see the results.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Share your knowledge together we exchange our idea's.
 
 - 📫 How to reach me **haikalhitech@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Any projects are for educational purposes only, I'm not supporting any illegal actions taken by the brainless person.
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ **THE QUITER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR**
 
 <br>
 <h3 align="left">Connect with me:</h3>
