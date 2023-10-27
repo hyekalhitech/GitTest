@@ -10,7 +10,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/hyekalhitech"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.thepolyglotdeveloper.com/uploads/2018/06/raspberry-pi-aircrack.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM5Zzd1cDFzNTZxeWp1dnlmZWIyNDZtN3l1aW9ldWE3NjVhYTduMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo4hWSPgBJLlUjGYeK/giphy.gif">
 <br><br>
 
 - 🔭 I’m currently working on **How To Master Your Mindset**
