@@ -10,7 +10,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/hyekalhitech"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=hPGvUbs2CNutBA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fhacker-gif-animation-9.gif&ehk=lO0f%2feQ4xGDBna2JO8ClhqsQI2zg4XMmDxoBRu0o%2f4M%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="https://imgur.com/a/LstcVX9">
 <br><br>
 
 - 🔭 I’m currently working on **How To Master Your Mindset**
@@ -28,6 +28,7 @@
 - ⚡ **THE QUITER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR**
 
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
