@@ -10,7 +10,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/hyekalhitech"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://imgur.com/a/LstcVX9">
+<img align="right" alt="Coding" width="400" src="https://www.thepolyglotdeveloper.com/uploads/2018/06/raspberry-pi-aircrack.gif">
 <br><br>
 
 - 🔭 I’m currently working on **How To Master Your Mindset**
